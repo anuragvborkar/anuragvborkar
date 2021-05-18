@@ -1,6 +1,6 @@
 - Hi, I’m @anuragvborkar.
 - I’m interested in Machine Learning, Physics, Astrophysics, Mathematics.
-- I’m currently learning more about ML from PRML by Bishop, RL and bunch of other stuff like climate and other large scale phenomena.
+- I’m currently learning more about ML from PRML (Bishop), RL(Sutton, Barto) and bunch of other stuff like climate and other large scale phenomena.
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
